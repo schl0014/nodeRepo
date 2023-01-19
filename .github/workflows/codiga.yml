@@ -1,0 +1,4 @@
+rulesets:
+  - jsx-a11y
+  - javascript-templates
+- my-first-public-ruleset
